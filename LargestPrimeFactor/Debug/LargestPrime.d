@@ -1,0 +1,1 @@
+LargestPrime.d: ../LargestPrime.cpp
